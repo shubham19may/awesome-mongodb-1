@@ -69,6 +69,7 @@
 
 - [MongoDB Replication](https://www.mongodb.com/docs/manual/replication/) - Official documentation on setting up and managing MongoDB replication.
 - [MongoDB Sharding](https://www.mongodb.com/docs/manual/sharding/) - Official guide on sharding MongoDB for horizontal scaling.
+- [OLake](https://github.com/datazip-inc/olake) - Open-source MongoDB to Apache Iceberg replication using change streams or oplog CDC, with parallel full loads. Written in Go.
 - [ReplicaSet Manager](https://github.com/automongodb/ReplicaSetManager) - A tool for managing MongoDB replica sets.
 - [Sharded Cluster Balancer](https://www.mongodb.com/docs/manual/core/sharding-balancer/) - A guide on balancing shards in a MongoDB sharded cluster.
 
